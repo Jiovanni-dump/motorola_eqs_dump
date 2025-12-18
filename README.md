@@ -1,0 +1,14 @@
+# user 15 SSQ3S2HV-V1-ST19.1 795612 release-keys
+- manufacturer: motorola
+- platform: taro
+- codename: eqs
+- flavor: user
+- release: 15
+- id: SSQ3S2HV-V1-ST19.1
+- incremental: 795612
+- tags: release-keys
+- fingerprint: motorola/eqs/eqs:12/SSQ3S2HV-V1-ST19.1/795612:user/release-keys
+- is_ab: true
+- brand: motorola
+- branch: user-15-SSQ3S2HV-V1-ST19.1-795612-release-keys
+- repo: motorola_eqs_dump
